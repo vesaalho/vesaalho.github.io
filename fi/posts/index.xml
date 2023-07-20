@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on ALHO</title>
+    <link>https://alho.fi/fi/posts/</link>
+    <description>Recent content in Posts on ALHO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fi-FI</language>
+    <lastBuildDate>Thu, 20 Jul 2023 07:56:23 +0300</lastBuildDate><atom:link href="https://alho.fi/fi/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vinkkejä moottoripyöräilyn aloittamiseen</title>
+      <link>https://alho.fi/fi/posts/moto/</link>
+      <pubDate>Thu, 20 Jul 2023 07:56:23 +0300</pubDate>
+      
+      <guid>https://alho.fi/fi/posts/moto/</guid>
+      <description>Minulla on nyt ollut A-kortti n. kuukauden. Pohjalla B-kortti. Ajattelin kirjoitella omia kokemuksia jos niistä olisi vaikka apua muillekin.
+Tausta:
+Ikä: 43 vuotta Pituus: 172cm Aiempi ajokokemus oli aikalailla nolla, ei mopoa nuorena, vain hieman ajellut kaverien mopoilla. Olin haaveillut kortin ajamisesta jo pidempään. Sitten palaset alkoi loksahdella elämässä. Tähän liittyi mm. kaveri jolla on paljon ajokokemusta ja hän omisti silläkin hetkellä kolme eri pyörää. Hänen apunsa oli korvaamaton tuki. Lisäksi toinen kokenut kaveri eri paikkakunnalla sekä erilaiset Facebook ryhmät auttoivat ja edelleen auttavat harrastuksessa.</description>
+    </item>
+    
+  </channel>
+</rss>
