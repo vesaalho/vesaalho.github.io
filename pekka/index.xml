@@ -6,31 +6,22 @@
     <description>Recent content in Tervetuloa on KELLO &amp; KULTA SILLANPÄÄ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fi</language>
-    <lastBuildDate>Mon, 10 Apr 2023 12:00:59 -0400</lastBuildDate><atom:link href="https://alho.fi/pekka/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Korut</title>
-      <link>https://alho.fi/pekka/post/chapter-1/</link>
-      <pubDate>Mon, 10 Apr 2023 12:00:59 -0400</pubDate>
-      
-      <guid>https://alho.fi/pekka/post/chapter-1/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce scelerisque velit non nibh eleifend, malesuada gravida nulla tincidunt. Vivamus commodo nulla quis augue tincidunt commodo. Aliquam fringilla semper velit id dictum. Integer vitae mauris commodo, aliquet lorem eget, tempus justo. In vel est erat. Maecenas tincidunt, nulla et varius congue, arcu mauris interdum sapien, at auctor felis ligula quis orci. Proin ex orci, auctor sed finibus in, lacinia sit amet tortor.</description>
-    </item>
-    
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://alho.fi/pekka/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kellot</title>
       <link>https://alho.fi/pekka/post/chapter-2/</link>
-      <pubDate>Mon, 10 Apr 2023 11:00:59 -0400</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://alho.fi/pekka/post/chapter-2/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce scelerisque velit non nibh eleifend, malesuada gravida nulla tincidunt. Vivamus commodo nulla quis augue tincidunt commodo. Aliquam fringilla semper velit id dictum. Integer vitae mauris commodo, aliquet lorem eget, tempus justo. In vel est erat. Maecenas tincidunt, nulla et varius congue, arcu mauris interdum sapien, at auctor felis ligula quis orci. Proin ex orci, auctor sed finibus in, lacinia sit amet tortor.</description>
     </item>
     
     <item>
-      <title>Vintage</title>
-      <link>https://alho.fi/pekka/post/chapter-3/</link>
-      <pubDate>Mon, 10 Apr 2023 09:00:59 -0400</pubDate>
+      <title>Korut</title>
+      <link>https://alho.fi/pekka/post/chapter-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://alho.fi/pekka/post/chapter-3/</guid>
+      <guid>https://alho.fi/pekka/post/chapter-1/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce scelerisque velit non nibh eleifend, malesuada gravida nulla tincidunt. Vivamus commodo nulla quis augue tincidunt commodo. Aliquam fringilla semper velit id dictum. Integer vitae mauris commodo, aliquet lorem eget, tempus justo. In vel est erat. Maecenas tincidunt, nulla et varius congue, arcu mauris interdum sapien, at auctor felis ligula quis orci. Proin ex orci, auctor sed finibus in, lacinia sit amet tortor.</description>
     </item>
     
@@ -41,6 +32,15 @@
       
       <guid>https://alho.fi/pekka/yritys/</guid>
       <description>Perinteikkään kello- ja kulta-alan liikkeemme historia juontaa vuoteen 1932, jolloin kelloseppä Väinö Uusitalo aloitti yritystoiminnan Kaustisella. Väinön siirtyessä eläkkeelle vuonna 1971, liiketoimintaa jatkoi Väinön tyttären, Pirkon mies kelloseppä Hannu Sillanpää yhdessä Pirkon kanssa. Hannun äkillisen kuoleman jälkeen, vuonna 1988, yrityksen toimintaa jatkoivat kelloseppä Pekka Sillanpää ja Vesa Sillanpää.</description>
+    </item>
+    
+    <item>
+      <title>Vintage</title>
+      <link>https://alho.fi/pekka/post/chapter-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alho.fi/pekka/post/chapter-3/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce scelerisque velit non nibh eleifend, malesuada gravida nulla tincidunt. Vivamus commodo nulla quis augue tincidunt commodo. Aliquam fringilla semper velit id dictum. Integer vitae mauris commodo, aliquet lorem eget, tempus justo. In vel est erat. Maecenas tincidunt, nulla et varius congue, arcu mauris interdum sapien, at auctor felis ligula quis orci. Proin ex orci, auctor sed finibus in, lacinia sit amet tortor.</description>
     </item>
     
     <item>
