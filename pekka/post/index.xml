@@ -8,30 +8,32 @@
     <language>fi</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://alho.fi/pekka/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Kellosepän palvelut ja vintage kellot</title>
+      <link>https://alho.fi/pekka/post/chapter-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alho.fi/pekka/post/chapter-3/</guid>
+      <description>Meillä kelloseppä Pekka Sillanpää huoltaa kaikenlaisia kelloja. Lisäksi varastoista löytyy monenlaisia vanhoja rannekelloja. Tule tekemään löytöjä!
+Vintage kelloja.</description>
+    </item>
+    
+    <item>
       <title>Kellot</title>
       <link>https://alho.fi/pekka/post/chapter-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://alho.fi/pekka/post/chapter-2/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce scelerisque velit non nibh eleifend, malesuada gravida nulla tincidunt. Vivamus commodo nulla quis augue tincidunt commodo. Aliquam fringilla semper velit id dictum. Integer vitae mauris commodo, aliquet lorem eget, tempus justo. In vel est erat. Maecenas tincidunt, nulla et varius congue, arcu mauris interdum sapien, at auctor felis ligula quis orci. Proin ex orci, auctor sed finibus in, lacinia sit amet tortor.</description>
+      <description>Myymme rannekelloja mm. seuraavilta merkeiltä. Leijona, Gant, Tommy Hilfinger, Aarni, Casio, Festina.</description>
     </item>
     
     <item>
-      <title>Korut</title>
+      <title>Korut ja lahjatavarat</title>
       <link>https://alho.fi/pekka/post/chapter-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://alho.fi/pekka/post/chapter-1/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce scelerisque velit non nibh eleifend, malesuada gravida nulla tincidunt. Vivamus commodo nulla quis augue tincidunt commodo. Aliquam fringilla semper velit id dictum. Integer vitae mauris commodo, aliquet lorem eget, tempus justo. In vel est erat. Maecenas tincidunt, nulla et varius congue, arcu mauris interdum sapien, at auctor felis ligula quis orci. Proin ex orci, auctor sed finibus in, lacinia sit amet tortor.</description>
-    </item>
-    
-    <item>
-      <title>Vintage</title>
-      <link>https://alho.fi/pekka/post/chapter-3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://alho.fi/pekka/post/chapter-3/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce scelerisque velit non nibh eleifend, malesuada gravida nulla tincidunt. Vivamus commodo nulla quis augue tincidunt commodo. Aliquam fringilla semper velit id dictum. Integer vitae mauris commodo, aliquet lorem eget, tempus justo. In vel est erat. Maecenas tincidunt, nulla et varius congue, arcu mauris interdum sapien, at auctor felis ligula quis orci. Proin ex orci, auctor sed finibus in, lacinia sit amet tortor.</description>
+      <description>Korut ja lahjatavarat muun muassa seuraavilta merkeiltä.
+Korut Lumoava Beat of Love Sandberg Kohinoor Tammen koru Silverbar Kulta-mäki Festive Aalmark Lahjatavarat Kastelahjat Pöytähopeat Kristallimaljat Maljakot Lasit Tinakynttiläjalat Taskumatit </description>
     </item>
     
   </channel>
