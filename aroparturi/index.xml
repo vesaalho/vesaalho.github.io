@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>  on ARO PARTURI</title>
+    <link>https://alho.fi/aroparturi/</link>
+    <description>Recent content in   on ARO PARTURI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fi</language><atom:link href="https://alho.fi/aroparturi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hinnasto</title>
+      <link>https://alho.fi/aroparturi/hinnasto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alho.fi/aroparturi/hinnasto/</guid>
+      <description>Hiukset
+Aikuiset 20€ Eläkeläiset 15€ Alle 12-vuotiaat 15€ Koneajo 10€ Parta
+Parranajo 10€ Parran muotoilu 10€ Hiusten leikkaus ja parran muotoilu 30€.</description>
+    </item>
+    
+    <item>
+      <title>Yhteystiedot</title>
+      <link>https://alho.fi/aroparturi/yhteys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alho.fi/aroparturi/yhteys/</guid>
+      <description>Avoinna
+Ma-Pe 9-18 La 10-17 Tehtaankatu 9-13, 67100 Kokkola
+puh: 045 1723030
+Facebook: https://www.facebook.com/AroKParturi</description>
+    </item>
+    
+  </channel>
+</rss>
