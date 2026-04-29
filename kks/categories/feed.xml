@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="https://kellojakultasillanpaa.fi/xml/base.min.xml" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Kello- ja kulta Sillanpää</title>
+    <link>https://kellojakultasillanpaa.fi/categories/</link>
+    <description>Recent content in Categories on Kello- ja kulta Sillanpää</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://kellojakultasillanpaa.fi/categories/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tervetuloa</title>
+      <link>https://kellojakultasillanpaa.fi/posts/my-first-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kellojakultasillanpaa.fi/posts/my-first-post/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://kellojakultasillanpaa.fi/images/logo.png&#34; alt=&#34;Logo&#34;&gt;&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h2 id=&#34;kellot-ja-koruja---ammattitaidolla-jo-vuodesta-1932&#34;&gt;&#xA;  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://kellojakultasillanpaa.fi/posts/my-first-post/#kellot-ja-koruja---ammattitaidolla-jo-vuodesta-1932&#34;&gt;Kellot ja koruja - ammattitaidolla jo vuodesta 1932.&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;040 6341266&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;mailto:info@kellojakultasillanpaa.fi&#34;&gt;info@kellojakultasillanpaa.fi&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/kellojakultasillanpaa&#34;&gt;https://www.facebook.com/kellojakultasillanpaa&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Terveystie 5, 69600 Kaustinen&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://kellojakultasillanpaa.fi/images/sormus.jpg&#34; alt=&#34;Sormus&#34;&gt;&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>
